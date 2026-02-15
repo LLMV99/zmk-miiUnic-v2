@@ -1,13 +1,13 @@
-if SHIELD_CORAX_LEFT
+if SHIELD_MIIUNIC_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Corax"
+    default "miiUnic"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 endif
 
-if SHIELD_CORAX_LEFT || SHIELD_CORAX_RIGHT
+if SHIELD_MIIUNIC_LEFT || SHIELD_MIIUNIC_RIGHT
 
 config ZMK_SPLIT
     default y
