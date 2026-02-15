@@ -1,5 +1,0 @@
-config SHIELD_MIIUNIC_LEFT
-    def_bool $(shields_list_contains,miiUnic_left)
-
-config SHIELD_MIIUNIC_RIGHT
-    def_bool $(shields_list_contains,miiUnic_right)

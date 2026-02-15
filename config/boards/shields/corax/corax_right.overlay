@@ -1,4 +1,4 @@
-#include "miiUnic.dtsi"
+#include "corax.dtsi"
 
 &default_transform {
     col-offset = <6>;
