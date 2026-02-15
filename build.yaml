@@ -20,6 +20,6 @@
 ---
  include:
   - board: nice_nano_v2
-    shield: miiUnic_left nice_view
+    shield: miiUnic_left
   - board: nice_nano_v2
-    shield: miiUnic_right nice_view
+    shield: miiUnic_right
