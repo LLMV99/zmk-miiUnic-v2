@@ -2,13 +2,10 @@ file_format: "1"
 id: miiUnic
 name: miiUnic
 type: shield
-#url: https://github.com/dnlbauer/corax-keyboard
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
   - encoder
-  - display
 siblings:
   - miiUnic_left
   - miiUnic_right
